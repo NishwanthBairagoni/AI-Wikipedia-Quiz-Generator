@@ -1,0 +1,113 @@
+{
+  "id": 5,
+  "url": "https://en.wikipedia.org/wiki/Automation",
+  "title": "Automation",
+  "summary": "No summary available.",
+  "sections": [],
+  "quiz": [
+    {
+      "question": "Which of the following is NOT explicitly mentioned as a benefit of automation?",
+      "options": {
+        "A": "Labor savings",
+        "B": "Reducing waste",
+        "C": "Increased marketing reach",
+        "D": "Savings in electricity costs"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The text mentions labor savings, reducing waste, and savings in electricity costs as benefits of automation. Increased marketing reach is not mentioned."
+    },
+    {
+      "question": "The term 'automation' became widely used around what year, following the establishment of an automation department by Ford?",
+      "options": {
+        "A": "1900",
+        "B": "1920",
+        "C": "1947",
+        "D": "1970"
+      },
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The text states that the term automation was not widely used before 1947, when Ford established an automation department."
+    },
+    {
+      "question": "What is the function of a controller in the simplest type of automatic control loop?",
+      "options": {
+        "A": "To measure the temperature of the system.",
+        "B": "To compare a measured value with a desired set value and process the error signal.",
+        "C": "To provide power to the system.",
+        "D": "To record data for later analysis."
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The text describes the controller as comparing a measured value of a process with a desired set value and processing the resulting error signal to change some input to the process."
+    },
+    {
+      "question": "Which of the following was the earliest feedback-controlled mechanism, as described in the text?",
+      "options": {
+        "A": "The centrifugal governor",
+        "B": "The mechanical clock",
+        "C": "A float regulator for a water clock",
+        "D": "The automatic loom"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The text mentions that in Ptolemaic Egypt, about 270 BC, Ctesibius described a float regulator for a water clock, which was the earliest feedback-controlled mechanism."
+    },
+    {
+      "question": "Who published a paper that established the beginning of a theoretical basis for understanding control theory, concerning the centrifugal governor?",
+      "options": {
+        "A": "James Watt",
+        "B": "Oliver Evans",
+        "C": "James Clerk Maxwell",
+        "D": "Edmund Lee"
+      },
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The text states that the governor received relatively little scientific attention until James Clerk Maxwell published a paper that established the beginning of a theoretical basis for understanding control theory."
+    },
+    {
+      "question": "In what decade did controllers that could make calculated changes in response to deviations from a set point begin to be introduced?",
+      "options": {
+        "A": "1910s",
+        "B": "1920s",
+        "C": "1930s",
+        "D": "1940s"
+      },
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The text mentions that controllers, which were able to make calculated changes in response to deviations from a set point rather than on-off control, began being introduced in the 1930s."
+    },
+    {
+      "question": "What was the primary reason Bell Labs started research on the transistor?",
+      "options": {
+        "A": "To improve the quality of long-distance telephone calls.",
+        "B": "To reduce the size of automatic telephone switchboards.",
+        "C": "To decrease the amount of electricity consumed by the telephone system.",
+        "D": "To increase the speed of telephone connections."
+      },
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The text states that call volume grew so fast that it was feared the telephone system would consume all electricity production, prompting Bell Labs to begin research on the transistor."
+    },
+    {
+      "question": "Which of the following is an example of a task that may currently lie beyond the scope of automation, according to the article?",
+      "options": {
+        "A": "Automotive welding",
+        "B": "Strategic planning",
+        "C": "Electrical power generation",
+        "D": "Oil refining"
+      },
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The article mentions that tasks requiring strategic planning currently require human input and lie beyond the scope of automation."
+    }
+  ],
+  "related_topics": [
+    "Control theory",
+    "History of technology",
+    "Industrial Revolution",
+    "Programmable logic controller",
+    "Robotics"
+  ],
+  "created_at": "2026-01-28 22:42:42.504337+05:30"
+}
